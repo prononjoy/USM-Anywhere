@@ -48,3 +48,9 @@ Settings--->System
 click asset field
 click the delete icon
 accept
+
+
+To Delete a Asset
+next to the asset name click on the drop down icon and select delete asset
+click delete
+
