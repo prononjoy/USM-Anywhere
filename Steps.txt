@@ -1,0 +1,23 @@
+To Add Assest
+Environment--->Assest
+Actions--->Quick
+Enter Name or IP or FQDN
+Scan the newly added asset for details.
+Save
+
+
+Assests can be added through csv file as well.
+
+CSV file must have this format
+
+test1;this is a test assest;;true;true;1.1.1.1
+
+Advanced Mode
+
+By default it is off.
+
+To activate:-
+
+Environment--->Assets
+enable the slider icon
+
