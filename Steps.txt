@@ -21,3 +21,22 @@ To activate:-
 Environment--->Assets
 enable the slider icon
 Close
+
+
+
+To see created events
+
+Activity---Events
+Locate the event name filter and select one of the filter 
+Click the desired event to see the details
+ 
+
+
+To Manage Assets Fields
+
+Settings---> System
+Click Asset Fields
+New Asset Field
+Add details
+select a display priority
+save
