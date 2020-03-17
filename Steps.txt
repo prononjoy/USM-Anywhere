@@ -5,7 +5,6 @@ Enter Name or IP or FQDN
 Scan the newly added asset for details.
 Save
 
-
 Assests can be added through csv file as well.
 
 CSV file must have this format
@@ -69,3 +68,10 @@ Vulnerable software exploitation:- An exploit is a code that takes advantage of 
 Heartbleed attack:-Heartbleed is a security bug in the OpenSSL cryptography library, which is a widely used implementation of the Transport Layer Security (TLS) protocol.
 
 Buffer over-read:- a situaton where more data can be read than should be allowed.
+
+Website
+
+www.abuseipdb.com
+www.virustotal.com
+www.
+
