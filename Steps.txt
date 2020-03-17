@@ -20,4 +20,4 @@ To activate:-
 
 Environment--->Assets
 enable the slider icon
-
+Close
