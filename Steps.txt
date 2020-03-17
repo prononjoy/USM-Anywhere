@@ -10,7 +10,7 @@ Assests can be added through csv file as well.
 
 CSV file must have this format
 
-test1;this is a test assest;;true;true;1.1.1.1
+test1;this is a test assests;;true;true;1.1.1.1
 
 Advanced Mode
 
