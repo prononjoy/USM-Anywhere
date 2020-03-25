@@ -1,0 +1,22 @@
+git ststuHello Text file.
+
+git add *
+git commit -m "<message>"
+git push origin <branch_name>
+
+git pull origin <branch_name>
+
+git checkout <branch_name>
+git checkout -b <new_branch_name>
+
+git init
+git remote add origin "<https url>"
+
+git config --global user.name "prononjoy"
+git config --global user.email "ratanpal28@gmail.com"
+
+sudo apt install git
+git --version
+sudo apt update
+
+git fetch 
