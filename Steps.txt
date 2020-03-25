@@ -73,5 +73,3 @@ Website
 
 www.abuseipdb.com
 www.virustotal.com
-www.google.co.in
-www.test.com1
