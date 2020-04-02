@@ -1,0 +1,77 @@
+To Add Assest
+Environment--->Assest
+Actions--->Quick
+Enter Name or IP or FQDN
+Scan the newly added asset for details.
+Save
+
+Assests can be added through csv file as well.
+
+CSV file must have this format
+
+test1;this is a test assests;;true;true;1.1.1.1
+
+Advanced Mode
+
+By default it is off.
+
+To activate:-
+
+Environment--->Assets
+enable the slider icon
+Close
+
+
+
+To see created events
+
+Activity---Events
+Locate the event name filter and select one of the filter 
+Click the desired event to see the details
+ 
+
+
+To Manage Assets Fields
+
+Settings---> System
+Click Asset Fields
+New Asset Field
+Add details
+select a display priority
+save
+
+
+To delete Asset field
+
+Settings--->System
+click asset field
+click the delete icon
+accept
+
+
+To Delete a Asset
+next to the asset name click on the drop down icon and select delete asset
+click delete
+
+
+
+SOME NETWORK ALARMS MEANING
+
+Network anomaly:- The definition of anomaly is “something that deviates from what is standard, normal, or expected.” Network owners need to have a concept of normal or expected behavior to identify an anomaly.
+
+Bruteforce Authentication:- A brute force attack involves 'guessing' username and passwords to gain unauthorized access to a system. Brute force is a simple attack method and has a high success rate.
+
+Anomalous User Behaviour:- Anomalous user behavior detection is the core component of many information security systems, such as intrusion detection, insider threat detection and authentication systems. Anomalous behavior will raise an alarm to the system administrator and can be further combined with other information to determine whether it constitutes an unauthorised or malicious use of a resource. This paper presents an anomalous user behaviour detection framework that applies an extended version of Isolation Forest algorithm. Our method is fast and scalable and does not require example anomalies in the training data set. We apply our method to an enterprise dataset. The experimental results show that the system is able to isolate anomalous instances from the baseline user model using a single feature or combined features.
+
+Vulnerable software exploitation:- An exploit is a code that takes advantage of a software vulnerability or security flaw. ... When used, exploits allow an intruder to remotely access a network and gain elevated privileges, or move deeper into the network. In some cases, an exploit can be used as part of a multi-component attack.
+
+Heartbleed attack:-Heartbleed is a security bug in the OpenSSL cryptography library, which is a widely used implementation of the Transport Layer Security (TLS) protocol.
+
+Buffer over-read:- a situaton where more data can be read than should be allowed.
+
+Defense Evasion:- Defense Evasion consists of techniques that adversaries use to avoid detection throughout their compromise. Techniques used for defense evasion include uninstalling/disabling security software or obfuscating/encrypting data and scripts. Adversaries also leverage and abuse trusted processes to hide and masquerade their malware. Other tactics’ techniques are cross-listed here when those techniques include the added benefit of subverting defenses.
+Website
+
+www.abuseipdb.com
+www.virustotal.com
+and manymore
